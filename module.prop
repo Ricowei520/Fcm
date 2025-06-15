@@ -1,7 +1,7 @@
-id=FCMHostsForChina
-name=FCMHostsForChina
-version=v0.3
+id=Fcm-Hosts
+name=Fcm-Hosts
+version=v1
 versionCode=1
 author=MinaMiGo,Goooler,Ricowei
-description=修改Hosts将FCM域名指向台湾服务器，以加速FCM。
-minMagisk=1500
+description=修改Hosts，以加速FCM。
+updateJson=https://raw.githubusercontent.com/Ricowei520/Fcm/refs/heads/main/module.json
