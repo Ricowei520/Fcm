@@ -6,7 +6,7 @@ LATESTARTSERVICE=false
 print_modname() {
   ui_print "*******************************"
   ui_print "        FCMHostsForChina       "
-  ui_print "          By MinaMiGo          "
+  ui_print "          By MinaMiGo,Goooler,Ricowei          "
   ui_print "*******************************"
 }
 
