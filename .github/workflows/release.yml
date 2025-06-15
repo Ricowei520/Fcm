@@ -19,4 +19,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           gh release view ${{ env.RELEASE_NAME }} && gh release delete ${{ env.RELEASE_NAME }} -y --cleanup-tag
-          gh release create ${{ env.RELEASE_NAME }} --generate-notes systemless-fcm-hosts.zip
+          gh release create ${{ env.RELEASE_NAME }} --generate-notes Fcm-Hosts.zip
