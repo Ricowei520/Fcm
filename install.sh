@@ -11,7 +11,6 @@ print_modname() {
 }
 
 REPLACE="
-/system/app/Youtube
 /system/priv-app/SystemUI
 /system/priv-app/Settings
 /system/framework
